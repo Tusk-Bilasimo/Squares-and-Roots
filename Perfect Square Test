@@ -1,0 +1,16 @@
+print("This is a test that determines if a positive number is a perfect square")
+n = int(input("Please input a Value "))
+oddList = [1]
+
+oddSum = sum(list(oddList))
+
+while oddSum < n:
+    a = oddList[-1] + 2
+    oddList.append(a)
+    oddSum = sum(list(oddList))
+
+if oddSum == n:
+    print(n, "is a perfect square and its square root is", len(oddList))
+else:
+    print(n, "is not a perfect square")
+    
