@@ -5,7 +5,7 @@ When talking about squared numbers we think of  n² or n x n, while doodling wit
 For all perfect squares
 n² = the sum of all odd integers beginning from 1 up to the index value of n
 
-While it is easy to calculate the n², finding the √n is more difficult. But since n is considerably smaller than n² it is a useful way to find the root of the smaller perfect squares, to do this:-
+While it is easy to calculate the n², finding the √n is more difficult. But since n is considerably smaller than n² it is a useful way to find the root of the smaller perfect squares. Like this:-
 
 Make an index   		      1, 2, 3,  4,   5,   6,   7,  8,  9,  10,  11,  12,  13......
 
